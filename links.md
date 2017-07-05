@@ -1,4 +1,6 @@
-### BasicJS
+## BasicJS
 
-## BasicDom
-[Assemble](https://css-tricks.com/dom/)
+*
+  ### BasicDom
+  [What is the DOM?](https://css-tricks.com/dom/)
+  Document Object Model
